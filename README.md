@@ -25,7 +25,7 @@ I am a beginner WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :telescope: I’m learning programing and use frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring React Framework.
 
 - :zap: In my free time, I study IT Engineer 😃
 
