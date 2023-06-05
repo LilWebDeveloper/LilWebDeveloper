@@ -31,7 +31,7 @@ I am a beginner WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :mailbox:How to reach me: kfalecki17@gmail.com
 
-- <a href="neoteric.eu"><img src="https://media.licdn.com/dms/image/C4E0BAQFqL_oDqH8zMA/company-logo_200_200/0/1660905346443?e=1693440000&v=beta&t=rA_G2niN9Xh-7PZe7FgOor1eKL2t0nXBaoTISz5hB9o" width="15"/> Neoacademy - Neoteric</a>
+- <a href="https://neoteric.eu/"><img src="https://media.licdn.com/dms/image/C4E0BAQFqL_oDqH8zMA/company-logo_200_200/0/1660905346443?e=1693440000&v=beta&t=rA_G2niN9Xh-7PZe7FgOor1eKL2t0nXBaoTISz5hB9o" width="15"/> Neoacademy - Neoteric</a>
 
 ---
 
